@@ -49,14 +49,32 @@ Hi there! I'm Tahajjod, a Full-Stack Software Engineer from Bangladesh. Graduate
 ## 📊 GitHub Stats
 
 <p align="center">
-  
+GCTL APP Login: https://drive.google.com/file/d/1ZOcQLUXEniu3NJZPYDvlAqs6NkfvQw1T/view?usp=drive_link
 </p>
 <p align="center">
-  
+  Employee Claim: https://drive.google.com/file/d/1LqfiNXUA9xKbzDdRddqw771PdCJY2bZI/view?usp=sharing
+  https://drive.google.com/file/d/1dLgNUy6EN-JmNSaP9j_23uW2sf1ej3zL/view?usp=sharing
 </p>
-
-
-
+<p align="center">
+Validation: https://drive.google.com/file/d/1_XGQw-dboU4gAEw4XdS6n2OBPg8fDReC/view?usp=sharing
+</p>
+<p align="center">
+Master Table Claim Approval: https://drive.google.com/file/d/1NQQfOu42Mo4uOLZr6x6B9FY6Bn7WuDwT/view?usp=sharing
+</p>
+<p align="center>
+Claim Pending Modal: https://drive.google.com/file/d/1oxT043SsothWUMiSEtVWeih8dKAxhXXP/view?usp=sharing
+  </p>
+  <p align="center">
+  Claim Compare Modal with 25% business logic: 
+  https://drive.google.com/file/d/1NQQfOu42Mo4uOLZr6x6B9FY6Bn7WuDwT/view?usp=sharing
+  https://drive.google.com/file/d/1qpq5jwX1zBETrVvEIvrkc7qx7iu5fe60/view?usp=sharing
+  </p>
+  <p align="center">
+  Unpaid Payment Approve Payment: https://drive.google.com/file/d/1h4g4N_rAAG1X9eJEFNrGveoGZZqpgah4/view?usp=sharing
+  <p align="center">
+  Database Execution Results:https://drive.google.com/file/d/1dLgNUy6EN-JmNSaP9j_23uW2sf1ej3zL/view?usp=sharing
+  </p>
+  
 <br/>
 
 ## 🤝 Connect With Me
